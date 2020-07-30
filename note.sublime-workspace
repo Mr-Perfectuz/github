@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"c",
+				"calendar"
+			],
+			[
+				"co",
+				"conv_fac"
+			],
+			[
+				"run",
+				"run_game"
+			],
+			[
+				"ma",
+				"make_pizza"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Css.html",
+			"settings":
+			{
+				"buffer_size": 840,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 763,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preda",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inatal",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Coding vidos/HTML"
+	],
+	"file_history":
+	[
+		"/D/Coding vidos/HTML/style.css",
+		"/D/Coding vidos/HTML/style.css/style.css",
+		"/D/my books/pictutres/2613039_image_1.jpg",
+		"/D/Coding vidos/HTML/foo.html",
+		"/D/Coding vidos/HTML/notes.html",
+		"/D/Coding vidos/HTML/note.html",
+		"/D/Coding vidos/Python/Ravshan.py",
+		"/C/Users/Mr.Perfect/Desktop/pygame chap 13/pygame/bullet.py",
+		"/C/Users/Mr.Perfect/Desktop/pygame chap 13/pygame/settings.py",
+		"/D/서울대 한국어/@korestili 서울대 한국어 - 6А/서울대 한국어 Student's Book 6A_120419213431.pdf",
+		"/C/Users/Mr.Perfect/Desktop/my files/java/bin/myapp/MyClass.class",
+		"/C/Users/Mr.Perfect/Downloads/barkamol_20192593_final.rar",
+		"/D/py/final.py",
+		"/C/Users/Mr.Perfect/Desktop/The Drama/chap8.py",
+		"/C/Users/Mr.Perfect/Desktop/The Drama/real python begins for me (777) (1) (1) (1).py",
+		"/D/py/online.py",
+		"/D/py/aliens.invasion.py.py",
+		"/D/py/button.py",
+		"/D/py/alien.py",
+		"/D/py/scoreboard.py",
+		"/D/py/ship.py",
+		"/D/py/settings.py",
+		"/D/py/aliens.py",
+		"/D/Python/pygame/pygame chap 13/pygame/ship.py",
+		"/D/Python/pygame/pygame chap 13/pygame/settings.py",
+		"/D/Python/pygame/pygame chap 13/pygame/alien_invasion.py",
+		"/D/Python/pygame/pygame chap 13/pygame/game_functions.py",
+		"/D/Python/pygame/pygame chap 13/pygame/bullet.py",
+		"/D/Python/pygame/pygame chap 13/pygame/button.py",
+		"/D/Python/pygame/pygame chap 13/pygame/scoreboard.py",
+		"/D/Python/pygame/pygame chap 13/pygame/game_stats.py",
+		"/D/Python/pygame/ship.py",
+		"/D/Python/pygame/button.py",
+		"/D/Python/pygame/bullet.py",
+		"/D/Python/pygame/settings.py",
+		"/D/Python/pygame/alien.py",
+		"/D/Python/pygame/game_functions.py",
+		"/D/Python/pygame/alien_invasion.py",
+		"/D/Python/pygame/game_stats.py",
+		"/D/Python/pygame/scoreboard.py",
+		"/D/Python/pygame/pygame-1.9.2-cp35-cp35m-win_amd64.whl",
+		"/D/Python/Aliens/game.py",
+		"/C/Users/Mr.Perfect/Downloads/chap8 (1).py",
+		"/C/Users/Mr.Perfect/Downloads/printing_models.py",
+		"/C/Users/Mr.Perfect/pizza.py",
+		"/C/Users/Mr.Perfect/Desktop/The Drama/app.py",
+		"/C/Users/Mr.Perfect/python",
+		"/C/Users/Mr.Perfect/Desktop/python"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"=\"\">",
+			">",
+			">\n",
+			"h1",
+			">\n",
+			"html",
+			"htm",
+			"kfwenuog3fo3g",
+			"\t\t",
+			"\t",
+			"self.moving_right = False"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Css.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 491.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "note.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 109.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
