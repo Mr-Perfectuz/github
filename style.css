@@ -1,4 +1,4 @@
-body, hi  {
+body, hi, h3 {
 	margin: 0;
 }
 
@@ -11,6 +11,11 @@ body, hi  {
   	width:  70%;
   	margin: 0 auto;
   }
+
+.clr {
+	clear: both;
+}
+
 .box_1 {
 	background-color: green;
 	padding: 20px 30px;
@@ -95,3 +100,96 @@ body, hi  {
 	width: 100%;
 
 }
+
+.block {
+	float: left;
+	width: 33.3%;
+	border:1px solid #555;
+	padding: 10px;
+	box-sizing: border-box;
+}
+ 
+.content {
+	float: left;
+	width: 70%;
+}
+
+.sidebar {
+	float: left;	
+	width: 30%;'
+	background-color: #333;
+	color: #fff;
+	box-sizing: border-box;
+	padding: 0 10;
+}
+
+.relative {
+	position: relative;
+	top: 0;
+	width: 630px;
+	height: 400px;
+	background-image: url(ppt.jpg);
+	background-size: cover;
+}
+
+.absolute {
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+
+.absolute2 {
+	position: absolute;
+	top: 40%;
+	right: 10%;
+}
+
+.fixed {
+	position: fixed;
+	left: 0;
+	top: 50%
+}
+.list-items li{
+	color: #555;
+	padding: 5px;
+	list-style-type: none;
+}
+
+.list-items li:first-child{
+	background-color: #ff0000;
+	color: #fff;
+}
+
+
+.list-items li:nth-child(even) {
+	background-color: green;
+	color: #fff;
+}
+
+.list-items li:last-child{
+	background-color: blue	;
+	color: #fff;
+}
+
+.table1 {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table1 th {
+	border: 1px solid #555;
+	background-color: green;
+	color: #fff;
+	padding: 5px;
+}
+
+.table td {
+	text-align: center;
+	border: 1px solid #555;
+	padding: 5px;
+}
+
+.table1 tr:nth-child(even) {
+	background-color: #B2D0EC;
+}
+
